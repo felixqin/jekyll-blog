@@ -11,34 +11,7 @@ permalink: /about/
 你若是一枚青叶，我就是你叶间簌簌而去的清风。
 
 
-## DESCRPTION
-
-* 1111
-* 2222
-
 ## 联系
 
 * GitHub：[@felixqin](https://github.com/felixqin)
 
-## Skill Keywords
-
-#### Software Engineer Keywords
-<div class="btn-inline">
-    {% for keyword in site.skill_software_keywords %}
-    <button class="btn btn-outline" type="button">{{ keyword }}</button>
-    {% endfor %}
-</div>
-
-#### Mobile Developer Keywords
-<div class="btn-inline">
-    {% for keyword in site.skill_mobile_app_keywords %}
-    <button class="btn btn-outline" type="button">{{ keyword }}</button>
-    {% endfor %}
-</div>
-
-#### Windows Developer Keywords
-<div class="btn-inline">
-    {% for keyword in site.skill_windows_keywords %}
-    <button class="btn btn-outline" type="button">{{ keyword }}</button>
-    {% endfor %}
-</div>
