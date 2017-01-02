@@ -7,7 +7,7 @@ date_format: "ordinal"
 title: 清风
 subtitle: "簌簌清风，青叶丛丛。"
 description: "你若是一枚青叶，我就是你叶间簌簌而去的清风。"
-keywords: 清风, Felix Qin, Fenglin Qin, fenglin
+keywords: 清风, felixqin, Fenglin Qin, fenglin
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -16,8 +16,8 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Felix Qin
-organization: Felix Studio.
+author: felixqin
+organization: felixqin.
 organization_url: https://felixqin.github.io
 location: Hangzhou, China
 email: qfl2000@gmail.com

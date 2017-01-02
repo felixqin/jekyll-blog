@@ -8,7 +8,7 @@ menu: 关于
 permalink: /about/
 ---
 
-Hello world.
+你若是一枚青叶，我就是你叶间簌簌而去的清风。
 
 
 ## DESCRPTION
